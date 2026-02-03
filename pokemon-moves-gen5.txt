@@ -1,0 +1,109 @@
+[Name]
+		
+[Type
+]
+		
+[Cat.]
+		
+[Power
+]
+		
+[Acc.]
+		
+[PP
+]
+		
+[Effect
+]
+[Spray	]	Poison		Special 		40 		100 		20 		Sharply lowers opponent's Special Defense.
+[Acrobatics	]	Flying		Physical 		55 		100 		15 		Stronger when the user does not have a held item.
+[You	]	Normal		Status 		— 		— 		15 		Gives target priority in the next turn.
+[Switch	]	Psychic		Status 		— 		— 		15 		User switches with opposite teammate.
+[Autotomize	]	Steel		Status 		— 		— 		15 		Reduces weight and sharply raises Speed.
+[Bestow	]	Normal		Status 		— 		— 		15 		Gives the user's held item to the target.
+[Flare	]	Fire		Special 		130 		85 		5 		May burn opponent.
+[Strike	]	Electric		Physical 		130 		85 		5 		May paralyze opponent.
+[Bulldoze	]	Ground		Physical 		60 		100 		20 		Lowers opponent's Speed.
+[Away	]	Normal		Physical 		70 		100 		20 		Ignores opponent's stat changes.
+[Throw	]	Fighting		Physical 		60 		90 		10 		In battles, the opponent switches. In the wild, the Pokémon runs.
+[Smog	]	Poison		Special 		50 		— 		15 		Removes all of the target's stat changes.
+[Coil	]	Poison		Status 		— 		— 		20 		Raises user's Attack, Defense and Accuracy.
+[Guard	]	Grass		Status 		— 		— 		10 		Drastically raises user's Defense.
+[Tail	]	Dragon		Physical 		60 		90 		10 		In battles, the opponent switches. In the wild, the Pokémon runs.
+[Run	]	Ground		Physical 		80 		95 		10 		High critical hit ratio.
+[Chop	]	Dragon		Physical 		40 		90 		15 		Hits twice in one turn.
+[Voice	]	Normal		Special 		40 		100 		15 		Power increases each turn.
+[Ball	]	Electric		Special 		— 		100 		10 		The faster the user, the stronger the attack.
+[Electroweb	]	Electric		Special 		55 		95 		15 		Lowers opponent's Speed.
+[Entrainment	]	Normal		Status 		— 		100 		15 		Makes target's ability same as user's.
+[Dance	]	Fire		Special 		80 		100 		10 		May raise user's Special Attack.
+[Gambit	]	Fighting		Special 		— 		100 		5 		Inflicts damage equal to the user's remaining HP. User faints.
+[Pledge	]	Fire		Special 		80 		100 		10 		Added effects appear if combined with Grass Pledge or Water Pledge.
+[Burst	]	Fire		Special 		70 		100 		15 		May also injure nearby Pokémon.
+[Charge	]	Fire		Physical 		50 		100 		20 		Raises user's Speed.
+[Play	]	Dark		Physical 		95 		100 		15 		Uses the opponent's Attack stat.
+[Shock	]	Ice		Physical 		140 		90 		5 		Charges on first turn, attacks on second. May paralyze opponent.
+[Breath	]	Ice		Special 		60 		90 		10 		Always results in a critical hit.
+[Bolt	]	Electric		Physical 		100 		100 		5 		Power increases if Fusion Flare is used in the same turn.
+[Flare	]	Fire		Special 		100 		100 		5 		Power increases if Fusion Bolt is used in the same turn.
+[Grind	]	Steel		Physical 		50 		85 		15 		Hits twice in one turn.
+[Glaciate	]	Ice		Special 		65 		95 		10 		Lowers opponent's Speed.
+[Pledge	]	Grass		Special 		80 		100 		10 		Added effects appear if preceded by Water Pledge or succeeded by Fire Pledge.
+[Split	]	Psychic		Status 		— 		— 		10 		Averages Defense and Special Defense with the target.
+[Charge	]	Normal		Physical 		120 		100 		15 		User receives recoil damage.
+[Pulse	]	Psychic		Status 		— 		— 		10 		Restores half the target's max HP.
+[Stamp	]	Psychic		Physical 		60 		100 		25 		May cause flinching.
+[Crash	]	Fire		Physical 		— 		100 		10 		The heavier the user, the stronger the attack.
+[Slam	]	Steel		Physical 		— 		100 		10 		The heavier the user, the stronger the attack.
+[Hex	]	Ghost		Special 		65 		100 		10 		Inflicts more damage if the target has a status condition.
+[Claws	]	Dark		Status 		— 		— 		15 		Raises user's Attack and Accuracy.
+[Leech	]	Grass		Physical 		75 		100 		10 		User recovers half the HP inflicted on opponent.
+[Hurricane	]	Flying		Special 		110 		70 		10 		May confuse opponent.
+[Burn	]	Ice		Special 		140 		90 		5 		Charges on first turn, attacks on second. May burn opponent.
+[Crash	]	Ice		Physical 		85 		90 		10 		May cause flinching.
+[Incinerate	]	Fire		Special 		60 		100 		15 		Destroys the target's held berry.
+[Inferno	]	Fire		Special 		100 		50 		5 		Burns opponent.
+[Tornado	]	Grass		Special 		65 		90 		10 		May lower opponent's Accuracy.
+[Sweep	]	Fighting		Physical 		65 		100 		20 		Lowers opponent's Speed.
+[Room	]	Psychic		Status 		— 		— 		10 		Suppresses the effects of held items for five turns.
+[Daze	]	Dark		Special 		85 		95 		10 		May lower opponent's Accuracy.
+[Split	]	Psychic		Status 		— 		— 		10 		Averages Attack and Special Attack with the target.
+[Psyshock	]	Psychic		Special 		80 		100 		10 		Inflicts damage based on the target's Defense, not Special Defense.
+[Psystrike	]	Psychic		Special 		100 		100 		10 		Inflicts damage based on the target's Defense, not Special Defense.
+[Quash	]	Dark		Status 		— 		100 		15 		Makes the target act last this turn.
+[Guard	]	Fighting		Status 		— 		— 		15 		Protects the user's team from high-priority moves.
+[Dance	]	Bug		Status 		— 		— 		20 		Raises user's Special Attack, Special Defense and Speed.
+[Powder	]	Bug		Status 		— 		— 		20 		Forces attacks to hit user, not team-mates.
+[Shell	]	Water		Physical 		75 		95 		10 		May lower opponent's Defense.
+[Type	]	Normal		Status 		— 		— 		15 		User becomes the target's type.
+[Song	]	Normal		Special 		75 		100 		10 		May put the target to sleep.
+[Retaliate	]	Normal		Physical 		70 		100 		5 		Inflicts double damage if a teammate fainted on the last turn.
+[Round	]	Normal		Special 		60 		100 		15 		Power increases if teammates use it in the same turn.
+[Sword	]	Fighting		Physical 		90 		100 		15 		Ignores opponent's stat changes.
+[Scald	]	Water		Special 		80 		100 		15 		May burn opponent.
+[Shot	]	Fire		Special 		100 		100 		5 		May burn opponent.
+[Sword	]	Fighting		Special 		85 		100 		10 		Inflicts damage based on the target's Defense, not Special Defense.
+[Smash	]	Normal		Status 		— 		— 		15 		Sharply raises user's Attack, Special Attack and Speed but lowers Defense and Special Defense.
+[Gear	]	Steel		Status 		— 		— 		10 		Raises user's Attack and sharply raises Speed.
+[Beam	]	Normal		Status 		— 		100 		15 		Changes target's ability to Simple.
+[Drop	]	Flying		Physical 		60 		100 		10 		Takes opponent into the air on first turn, drops them on second turn.
+[Wave	]	Poison		Special 		95 		100 		10 		May poison opponent.
+[Down	]	Rock		Physical 		50 		100 		15 		Makes Flying-type Pokémon vulnerable to Ground moves.
+[Snarl	]	Dark		Special 		55 		95 		15 		Lowers opponent's Special Attack.
+[Soak	]	Water		Status 		— 		100 		20 		Changes the target's type to water.
+[Steamroller	]	Bug		Physical 		65 		100 		20 		May cause flinching.
+[Power	]	Psychic		Special 		20 		100 		10 		Power increases when user's stats have been raised.
+[Throw	]	Fighting		Physical 		60 		100 		10 		Always results in a critical hit.
+[Bug	]	Bug		Special 		50 		100 		20 		Lowers opponent's Special Attack.
+[Synchronoise	]	Psychic		Special 		120 		100 		10 		Hits any Pokémon that shares a type with the user.
+[Slap	]	Normal		Physical 		25 		85 		10 		Hits 2-5 times in one turn.
+[Blast	]	Normal		Special 		120 		100 		5 		Type depends on the Drive being held.
+[Telekinesis	]	Psychic		Status 		— 		— 		15 		Ignores opponent's Evasiveness for three turns, add Ground immunity.
+[create	]	Fire		Physical 		180 		95 		5 		Lowers user's Defense, Special Defense and Speed.
+[Venoshock	]	Poison		Special 		65 		100 		10 		Inflicts double damage if the target is poisoned.
+[Switch	]	Electric		Special 		70 		100 		20 		User must switch out after attacking.
+[Pledge	]	Water		Special 		80 		100 		10 		Added effects appear if preceded by Fire Pledge or succeeded by Grass Pledge.
+[Guard	]	Rock		Status 		— 		— 		10 		Protects the user's team from multi-target attacks.
+[Charge	]	Electric		Physical 		90 		100 		15 		User receives recoil damage.
+[Room	]	Psychic		Status 		— 		— 		10 		Swaps every Pokémon's Defense and Special Defense for 5 turns.
+[Up	]	Normal		Status 		— 		— 		30 		Raises user's Attack and Special Attack.

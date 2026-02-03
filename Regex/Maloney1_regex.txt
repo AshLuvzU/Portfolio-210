@@ -1,0 +1,7 @@
+changed & to &amp;
+wrapped lines with <movie> using regex (?<=\n)(.*)
+wrapped movie title with \1<title>\2</title> using regex <movie>(\.+?)
+wrapped year with \1<year>\2</year> using regex </title>(\d+)
+wrapped country with \1<country>\2</country> using regex </year>(\s*\w+)
+wrapped runtime with \1<runtime unit="min">\2</runtime> using regex (</country>)(.+?\s)(\w+)
+wrapped whole doc in root element with <xml>\1</xml> using regex ^([\s\S]*)$
