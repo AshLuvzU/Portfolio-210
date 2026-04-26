@@ -1,0 +1,33 @@
+=== Boss Fight Text ===
+come: 11
+born: 8
+let: 5
+thou: 5
+devour: 5
+become: 4
+bathed: 4
+tarnished: 4
+known: 3
+didst: 3
+return: 3
+fought: 3
+destined: 3
+sworn: 3
+kill: 2
+
+=== NPC Text ===
+have: 196
+see: 184
+take: 118
+know: 109
+do: 89
+find: 82
+come: 81
+let: 79
+think: 77
+go: 74
+make: 62
+meet: 61
+tell: 59
+tarnished: 57
+become: 54
